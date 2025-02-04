@@ -109,6 +109,7 @@ La documentación de la API está disponible en los siguientes enlaces:
 1. Clona el repositorio:
     ```console
     git clone https://github.com/mr-pgy/pruebaInditex.git
+    cd pruebaInditex/
     cd test-inditex/
     ```
 
