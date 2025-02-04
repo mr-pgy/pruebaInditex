@@ -108,7 +108,7 @@ La documentación de la API está disponible en los siguientes enlaces:
 ## Pasos para compilar y desplegar
 1. Clona el repositorio:
     ```console
-    git clone https://github.com/mr-pgy/pruebaInditex/test-inditex.git
+    git clone https://github.com/mr-pgy/pruebaInditex.git
     cd test-inditex/
     ```
 
